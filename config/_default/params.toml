@@ -14,7 +14,7 @@
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
 #theme = "minimal"
-theme = "dark"
+theme = "1950s"
 #theme = "rose"
 #theme = "mr robot"
 
