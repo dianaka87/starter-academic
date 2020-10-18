@@ -1,5 +1,3 @@
-header:
-  image: "SMPC_2019.jpg"
 
 +++
 # About widget.
