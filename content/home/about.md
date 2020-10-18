@@ -1,3 +1,6 @@
+header:
+  image: "SMPC_2019.jpg"
+
 +++
 # About widget.
 widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
