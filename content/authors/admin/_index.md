@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Diana Kayser
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: York Music Psychology Group (YMPG), University of York
+  url: "https://www.york.ac.uk/music/research/music-science-technology/research-groups/ympg/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am interested in how facial expressions and other non-subjective indicators of emotion may contribute to our understanding of emotions induced by music.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- music-induced emotion
+- facial expressions of emotion
+- statistical programming
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Music Psychology
+    institution: University of York, UK
+    year: in progress, Thesis to be submitted in 2020/2021
+  - course: MA in Musicology (Musikkvitenskap) 
+    institution: University of Oslo, Norway
+    year: 2016
+  - course: BA in Musicology (Musikwissenschaft)
+    institution: University of Cologne, Germany
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:dk875@york.ac.uk".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/diana_kayser
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
+  link: https://scholar.google.com/citations?user=FoBhs1IAAAAJ&hl=en&oi=ao
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
+- icon: fa-mug-hot
+  icon_pack: fas
   link: https://github.com/gcushen
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +77,3 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
