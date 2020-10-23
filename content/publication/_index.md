@@ -1,8 +1,19 @@
 ---
-title: Publications
 title: Diana Test
 date: 2020
 publication_types: "2" 
+publication: Journal Test
+abstract: the summary of your publication
+
+
+title: Diana Test2
+date: 2020
+publication_types: "2" 
+publication: Journal Test
+abstract: the summary of your publication
+
+
+
 #use the following legend to specify the type of your publication, e.g. "1" for conference proceedings:
 #0 = Uncategorized
 #1 = Conference paper
@@ -13,8 +24,7 @@ publication_types: "2"
 #6 = Book section
 #7 = Thesis (v4.2+ required)
 #8 = Patent (v4.2+ required)
-publication: Journal Test
-abstract: the summary of your publication
+
 
 # View.
 #   1 = List
