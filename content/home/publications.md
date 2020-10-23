@@ -9,6 +9,7 @@ weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
 subtitle = ""
+hugo new --kind publication publication/Test-Diana>
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -38,6 +39,7 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
+  columns = "2"
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -70,3 +72,5 @@ subtitle = ""
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
+
+
