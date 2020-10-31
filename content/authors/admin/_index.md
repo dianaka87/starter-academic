@@ -54,8 +54,7 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-- icon: fa-mug-hot
-  icon_pack: fas
+- <a href='https://ko-fi.com/Z8Z21KL1S' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
   link: https://github.com/gcushen
 
 # Link to a PDF of your resume/CV from the About widget.
