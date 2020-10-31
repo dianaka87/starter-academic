@@ -5,15 +5,6 @@ publication_types: "2"
 publication: Journal Test
 abstract: the summary of your publication
 
-
-title: Diana Test2
-date: 2020
-publication_types: "2" 
-publication: Journal Test
-abstract: the summary of your publication
-
-
-
 #use the following legend to specify the type of your publication, e.g. "1" for conference proceedings:
 #0 = Uncategorized
 #1 = Conference paper
